@@ -11,6 +11,9 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.text.Editable;
 
+/*
+* This is my Main file
+*/
 public class Main extends Activity {
 	EditText vFirstValue;
 	EditText vSecondValue;
